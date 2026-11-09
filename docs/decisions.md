@@ -103,6 +103,7 @@ Key rules agreed with the tables:
 
 ## Open items
 
-- Research real lead times, costs, shelf lives, usage per wafer and QC hold days (parked)
-- Choose dashboard and user interface tools
-- Decide which fields to make messy on purpose
+<!--
+Research real lead times, costs, shelf lives, usage per wafer and QC hold days (parked)
+## Choose dashboard and user interface tools
+## Decide which fields to make messy on purpose
